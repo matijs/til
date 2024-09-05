@@ -1,0 +1,14 @@
+{
+  "name": "til",
+  "repository": {
+    "type": "git+ssh",
+    "url": "git@github.com:matijs/til"
+  },
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "packageManager": "pnpm@9.9.0",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
