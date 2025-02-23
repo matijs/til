@@ -8,7 +8,7 @@ date: 20241208
 On a Linux system the OEM Windows key can be found by running
 
 ```shell
-sudo string /sys/firmware/acpi/tables/MSDM
+sudo strings /sys/firmware/acpi/tables/MSDM
 ```
 
 One of the strings is the actual original Windows product key. Microsoft
