@@ -24,4 +24,3 @@ Thankfully it is possible using the following command:
 ```shell
 $ git show other/branch:some/file
 ```
-

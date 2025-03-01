@@ -16,6 +16,7 @@ For example:
 $ podman <C-x> <C-e>
 # editor opens
 ```
+
 Type the full command, save and exit the editor, the editor will close, the
 command will be echoed and executed. For example:
 
@@ -29,5 +30,5 @@ podman run \
   --volume "$(pwd):/usr/share/nginx" \
   nginx:latest
 aa38e28946807dc0ce0f5d8097fd94816d8a3ef50cd4faa7f248fadc06d65010
-$ 
+$
 ```

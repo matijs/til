@@ -5,7 +5,8 @@
     "url": "git@github.com:matijs/til"
   },
   "scripts": {
-    "format": "prettier --write ."
+    "prettier": "prettier --check .",
+    "prettier:fix": "prettier --write ."
   },
   "packageManager": "pnpm@9.9.0",
   "devDependencies": {

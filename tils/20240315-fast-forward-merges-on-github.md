@@ -19,4 +19,3 @@ main branch to GitHub.
 Without a pull request, this would be rejected, but because all branch
 protection rules were met, this push actually works. Your pull request will
 automatically be closed and if set up, the remote branch will also be deleted.
-

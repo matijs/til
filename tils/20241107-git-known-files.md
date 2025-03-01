@@ -18,4 +18,3 @@ mean for Git to ‘know’ a file? I could think of the following categories:
    known.
 3. **Ignored files**: Git is also aware of files that you've explicitly told it
    to ignore.
-

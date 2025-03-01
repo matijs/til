@@ -8,14 +8,13 @@ date: 20241017
 From the [glossary][1] on pathspec in the git handbook, the term is defined as
 follows:
 
-> Pathspecs are used on the command line of "git ls-files", "git ls-tree",
-> "git add", "git grep", "git diff", "git checkout", and many other
-> commands to limit the scope of operations to some subset of the tree or
-> working tree.
+> Pathspecs are used on the command line of "git ls-files", "git ls-tree", "git
+> add", "git grep", "git diff", "git checkout", and many other commands to limit
+> the scope of operations to some subset of the tree or working tree.
 
-The most straightforward example of a pathspec is something like `git add
-path/to/some/file` where `path/to/some/file` is the pathspec. Even the dot in
-`git add .` is a pathspec.
+The most straightforward example of a pathspec is something like
+`git add path/to/some/file` where `path/to/some/file` is the pathspec. Even the
+dot in `git add .` is a pathspec.
 
 Beyond these basic pathspecs there are also special ones. I've been using a
 special pathspec —without knowing it exactly for what it was— to exclude
@@ -59,4 +58,5 @@ $ git diff -- ':(glob,exclude)**/package.json'
 This example uses the long form again and it combines the two ‘magic words’
 `glob` and `exclude`.
 
-[1]: https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
+[1]:
+  https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec

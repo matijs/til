@@ -18,4 +18,3 @@ To open a different file in the split, you can use `:vsplit path/to/other/file`.
 However, if you want to open an empty split, you can use `:vsplit +enew`. This
 will split the window and execute the `enew` command in the new window, creating
 a new, unnamed buffer.
-

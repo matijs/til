@@ -16,7 +16,6 @@ you're good to go.
 
 ## Examples
 
-- EURO SIGN U+20AC (€): <kbd>ctrl</kbd>+<kbd>v</kbd> followed by  `u20ac`
+- EURO SIGN U+20AC (€): <kbd>ctrl</kbd>+<kbd>v</kbd> followed by `u20ac`
 - GRINNING FACE WITH STAR EYES U+1F929 (🤩): <kbd>ctrl</kbd>+<kbd>v</kbd>
   followed by `U0001f929` or `U1f929` followed by space.
-

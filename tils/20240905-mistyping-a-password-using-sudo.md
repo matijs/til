@@ -7,8 +7,7 @@ When you accidentally press a cursor key while entering a password for `sudo`,
 you may end up entering a different password than intended.
 
 Because `sudo` does not echo your input, it can be difficult to determine how
-many times you need to hit backspace to correct the mistake when this
-happens.
+many times you need to hit backspace to correct the mistake when this happens.
 
 The best option, therefore, is to discard the input completely. Using `sudo`,
 this is as simple as hitting <kbd>ctrl</kbd>-<kbd>u</kbd>. This is ‘`readline`’
