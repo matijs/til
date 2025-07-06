@@ -6,7 +6,7 @@ on: pull_request
 
 concurrency:
   group: ${{ github.ref }}
-  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+  cancel-in-progress: true
 
 jobs:
   prettier-check:
