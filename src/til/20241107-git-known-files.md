@@ -1,7 +1,7 @@
 ---
 title: Git known files
-date: 20241107
-...
+date: 2024-11-07
+---
 
 # Git known files
 

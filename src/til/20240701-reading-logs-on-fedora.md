@@ -1,7 +1,7 @@
 ---
 title: Reading logs on Fedora
-date: 20240701
-...
+date: 2024-07-01
+---
 
 # Reading logs on Fedora
 

@@ -1,7 +1,7 @@
 ---
 title: Corepack prepare
-date: 20240424
-...
+date: 2024-04-24
+---
 
 # Corepack prepare
 

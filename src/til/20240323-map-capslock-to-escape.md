@@ -1,7 +1,7 @@
 ---
 title: Map capslock to escape on Fedora with Gnome
-date: 20240323
-...
+date: 2024-03-23
+---
 
 # Map capslock to escape on Fedora with Gnome
 

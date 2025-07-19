@@ -1,7 +1,7 @@
 ---
 title: Removing unused bootmanager options
-date: 20250104
-...
+date: 2025-01-04
+---
 
 # Removing unused bootmanager options
 

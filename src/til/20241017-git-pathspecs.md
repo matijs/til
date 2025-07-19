@@ -1,7 +1,7 @@
 ---
 title: git pathspecs
-date: 20241017
-...
+date: 2024-10-17
+---
 
 # git pathspecs
 

@@ -1,7 +1,7 @@
 ---
 title: How to show the contents of a file in a different branch
-date: 20240523
-...
+date: 2024-05-23
+---
 
 # How to show the contents of a file in a different branch
 

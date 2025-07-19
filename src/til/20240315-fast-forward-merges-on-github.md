@@ -1,7 +1,7 @@
 ---
 title: Fast-forward merges on GitHub
-date: 20240315
-...
+date: 2024-03-15
+---
 
 # Fast-forward merges on GitHub
 

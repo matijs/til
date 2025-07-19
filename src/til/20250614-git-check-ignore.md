@@ -1,7 +1,7 @@
 ---
 title: git check-ignore
-date: 20250614
-...
+date: 2025-06-14
+---
 
 # git check-ignore
 

@@ -1,7 +1,7 @@
 ---
 title: ESLint config file extension
-date: 20240828
-...
+date: 2024-08-28
+---
 
 # ESLint config file extension
 

@@ -1,7 +1,7 @@
 ---
 title: git restore in one just command
-date: 20241007
-...
+date: 2024-10-07
+---
 
 # git restore in just one command
 

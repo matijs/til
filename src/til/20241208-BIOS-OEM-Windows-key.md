@@ -1,7 +1,7 @@
 ---
 title: BIOS OEM Windows key
-date: 20241208
-...
+date: 2024-12-08
+---
 
 # BIOS OEM Windows Key
 

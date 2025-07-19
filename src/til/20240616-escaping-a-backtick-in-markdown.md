@@ -1,7 +1,7 @@
 ---
 title: Escaping a backtick in Markdown
-date: 20240616
-...
+date: 2024-06-16
+---
 
 # Escaping a backtick in Markdown
 

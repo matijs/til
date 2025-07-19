@@ -1,7 +1,7 @@
 ---
 title: Mistyping a password using sudo
-date: 20240905
-...
+date: 2024-09-05
+---
 
 When you accidentally press a cursor key while entering a password for `sudo`,
 you may end up entering a different password than intended.

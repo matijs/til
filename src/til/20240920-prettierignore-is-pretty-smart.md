@@ -1,7 +1,7 @@
 ---
 title: .prettierignore is pretty smart
-date: 20240920
-...
+date: 2024-09-20
+---
 
 # `.prettierignore` is pretty smart
 

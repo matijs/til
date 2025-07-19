@@ -1,7 +1,7 @@
 ---
 title: Using Vim for long commands in bash
-date: 20240426
-...
+date: 2024-04-26
+---
 
 # Using vim for long command-line commands in bash
 

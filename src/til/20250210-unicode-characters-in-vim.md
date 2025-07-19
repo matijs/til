@@ -1,7 +1,7 @@
 ---
 title: Unicode characters in vim
-date: 20250210
-...
+date: 2025-02-10
+---
 
 # Unicode characters in vim
 

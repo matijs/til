@@ -1,7 +1,7 @@
 ---
 title: Opening an empty vertical split in vim
-date: 20250207
-...
+date: 2025-02-07
+---
 
 # Opening an empty vertical split in vim
 

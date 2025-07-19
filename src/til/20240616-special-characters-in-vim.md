@@ -1,7 +1,7 @@
 ---
 title: Special characters in Vim
-date: 20240616
-...
+date: 2024-06-16
+---
 
 # Special characters in Vim
 

@@ -1,7 +1,7 @@
 ---
 title: Interactive rebase from the start
-date: 20240413
-...
+date: 2024-04-13
+---
 
 # Interactive rebase on the beginning of a repo
 
