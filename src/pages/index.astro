@@ -1,0 +1,14 @@
+---
+import Base from '@layouts/base.astro';
+import { getCollection } from 'astro:content';
+
+const tils = await getCollection('til');
+---
+<Base title="TILS!">
+  <h1>TILS</h1>
+  <ul>
+    {tils.map((til) => (
+      <li><a href={`/til/${til.id}`}>{til.data.title}</a></li>
+    ))}
+  </ul>
+</Base>
