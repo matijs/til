@@ -1,3 +1,6 @@
+onlyBuiltDependencies:
+  - esbuild
+
 saveExact: true
 
-savePrefix: ""
+savePrefix: ''

@@ -1,0 +1,16 @@
+---
+import Base from '@layouts/base.astro';
+
+interface Props {
+  title: string;
+  date: Date;
+}
+
+const { title, date } = Astro.props;
+const datetime = date.toDateString();
+---
+<Base title={title}>
+  <datetime>{datetime}</datetime>
+  <slot></slot>
+</Base>
+
