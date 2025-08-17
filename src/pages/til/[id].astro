@@ -1,0 +1,22 @@
+---
+import Til from '@layouts/til.astro';
+import { getCollection, render } from 'astro:content';
+import type { InferGetStaticParamsType, InferGetStaticPropsType, GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async () => {
+  const tils = await getCollection('til');
+
+  return tils.map((til) => {
+    return {
+      params: { id: til.id },
+      props: { til },
+    };
+  });
+  }) satisfies GetStaticPaths;
+
+const { til } = Astro.props as InferGetStaticPropsType<typeof getStaticPaths>;
+const { Content } = await render(til);
+---
+<Til {...til.data}>
+  <Content></Content>
+</Til>
